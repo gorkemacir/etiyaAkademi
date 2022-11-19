@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
       <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inheritancedemo/inheritancedemo.iml" filepath="$PROJECT_DIR$/inheritancedemo/inheritancedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javaHelloWorld.iml" />
@@ -23,7 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/multiDimensionArrayDemo/multiDimensionArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionArrayDemo/multiDimensionArrayDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorpyismDemo/polimorpyismDemo.iml" filepath="$PROJECT_DIR$/polimorpyismDemo/polimorpyismDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ReCapDemo1/reCapDemo1.iml" filepath="$PROJECT_DIR$/ReCapDemo1/reCapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo1/reCapDemo1.iml" filepath="$PROJECT_DIR$/reCapDemo1/reCapDemo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" filepath="$PROJECT_DIR$/reCapDemo2/reCapDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
